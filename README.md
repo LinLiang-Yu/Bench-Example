@@ -4,3 +4,6 @@ Author: Liang-Yu Lin
 
 ## Test Bench Diagram
 ![soc_traffic_tb_diagram](https://github.com/LinLiang-Yu/SoC-Traffic-Example/blob/main/SoC_Traffic_Bench_Example.jpg)
+
+## Design Example Diagram
+![soc_design_diagram](https://github.com/LinLiang-Yu/SoC-Traffic-Example/blob/main/SoC_Design_Example.jpg)
